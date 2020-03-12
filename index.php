@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.comparethemarket.com/energy/information/a-guide-to-switching-energy-suppliers/");
+header("Location: https://www.watch-repair-boston.com/services.php");
 die();
 ?>
