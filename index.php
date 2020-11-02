@@ -1,4 +1,4 @@
 <?php
-header("Location: https://cheenavala.com");
+header("Location: https://www.broadsheet.com.au/sydney/guides/best-burgers");
 die();
 ?>
